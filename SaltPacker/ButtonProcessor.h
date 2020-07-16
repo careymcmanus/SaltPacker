@@ -6,8 +6,6 @@ struct Btn {
 
 const uint8_t NUM_B = 2;
 
-
-unsigned int currentTime = 0, previousTime = 0;
 uint8_t buttonFlags = 0;
 
 Btn modeBtn = {5, 0, 0};
